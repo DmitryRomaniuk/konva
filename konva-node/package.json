@@ -26,7 +26,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "canvas": "^2.5.0",
-    "konva": "^7"
+    "canvas": "^2.9.1",
+    "konva": "^8"
   }
 }
